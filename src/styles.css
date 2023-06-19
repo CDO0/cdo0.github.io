@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    margin:0;
+    background-color:black;
+    /*overflow: hidden;*/
+    display: flex;
+    flex-direction: column;
+  }
+  
+
+
+
+
+game {
+ 
+  flex: 1;
+
+}
+
+
+
+
+
+/*@media (min-width: 0px) and (max-width: 780px){
+#game {width: fit-content;}
+}
+
+/*@media (min-width: 480px) and (max-width: 780px){
+  .header-site {display: none;}
+  #game {width: fit-content;}
+  }*/
+  

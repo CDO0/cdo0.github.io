@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+   background-image: url("/src/assets/fond_menu.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+}
+
+.containeur{
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+}
+
+/*.contenu{
+    display: block;
+}*/
+
+div {
+    margin: auto;
+    color: white;
+    font-size: large;
+  
+    
+}
+
+
+
+form{
+    padding: 20px;
+    background-image: url("fond_form.png");
+    border-radius: 20px;
+}
+
+label{
+    display: block;
+}
+
+legend{
+    text-align: center;
+    font-size: large;
+    color: black;
+}
+
+button{
+    display: block;
+    margin: auto;
+}
